@@ -44,7 +44,11 @@ const CheckoutPage = ({ cartItems, total }) => (
     <WarningContainer>
       *Please use the following test credit card for payments*
       <br />
-      4242 4242 4242 4242 - Exp: 01/20 - CVV: 123
+      Number: 4242 4242 4242 4242
+      <br />
+      Date: Any future date (MM/YY)
+      <br />
+      CVC: Any 3 digits
     </WarningContainer>
     <StripeCheckoutButton price={total} />
   </CheckoutPageContainer>
