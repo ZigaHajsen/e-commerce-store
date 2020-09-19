@@ -1,1 +1,1 @@
-Project deployed to Heroku: https://ziga-ecommerce.herokuapp.com/
+Master Project for Complete React Developer in 2020 by Andrei Neagoie, Yihua Zhang
